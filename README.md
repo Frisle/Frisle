@@ -1,16 +1,48 @@
-### Hi there 👋
+## Hi there, I am Vladimirov Dmitrij 👋
 
-<!--
-**Frisle/Frisle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Backend developer, 34 y.o
+![views](https://hits.dwyl.com/diplomatgmg/Frisle.svg)
 
-Here are some ideas to get you started:
+**Location:** &ensp;&ensp;&ensp; &ensp; Kazakhstan<br>
+**Hobbies:** &ensp;&ensp;&ensp;&ensp; &ensp;coding, cycling, books, cooking<br>
+**MonkeyType:** &ensp;[Monkey Type](https://monkeytype.com/profile/Frisle)<br>
+**Telegram:** &ensp;&ensp;&ensp; &ensp;[Frisle](https://t.me/Frisle)<br>
+**Email:** &ensp;&ensp;&ensp;&ensp;&ensp;&ensp; &ensp; wda610@gmail.com<br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# Pet-projects
+- #### [TimeManager](https://github.com/Frisle/CLITimeManager)
+- #### [FoodAdditivesBot](https://github.com/Frisle/Food_additives_bot)
+
+### Languages:
+## Backend:
+- Python
+  - Flask
+  - Selenium
+  - Pandas
+  - Numpy
+- ObjectScript
+
+## Frontend:
+- HTML/CSS
+
+## Database:
+- SQL
+- MDX
+
+## IDEs:
+- PyCharm
+- VsCode
+
+## Operating Systems:
+- Linux (Ubuntu)
+- Windows
+
+## Other:
+- Github
+- Docker
+- Postman
+- Logi Report Designer
+- AtScale
+
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Frisle&layout=compact)
