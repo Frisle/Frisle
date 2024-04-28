@@ -13,7 +13,6 @@
 - #### [TimeManager](https://github.com/Frisle/CLITimeManager)
 - #### [FoodAdditivesBot](https://github.com/Frisle/Food_additives_bot)
 
-### Languages:
 ## Backend:
 - Python
   - Flask
