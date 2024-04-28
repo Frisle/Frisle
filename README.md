@@ -1,6 +1,6 @@
 ## Hi there, I am Vladimirov Dmitrij 👋
 
-## Backend developer, 34 y.o
+## Backend developer, programmer-analyst, code enthusiast, 34 y.o
 ![views](https://hits.dwyl.com/diplomatgmg/Frisle.svg)
 
 **Location:** &ensp;&ensp;&ensp; &ensp; Kazakhstan<br>
