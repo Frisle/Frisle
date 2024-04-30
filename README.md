@@ -10,8 +10,9 @@
 **Email:** &ensp;&ensp;&ensp;&ensp;&ensp;&ensp; &ensp; wda610@gmail.com<br>
 
 # Pet-projects
-- #### [TimeManager](https://github.com/Frisle/CLITimeManager)
+- #### [CLITimeManager](https://github.com/Frisle/CLITimeManager)
 - #### [FoodAdditivesBot](https://github.com/Frisle/Food_additives_bot)
+- #### [CLIKnowledgeBase](https://github.com/Frisle/CLIKnowledgeBase)
 
 ## Backend:
 - Python
