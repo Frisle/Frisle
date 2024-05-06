@@ -14,6 +14,9 @@
 - #### [FoodAdditivesBot](https://github.com/Frisle/Food_additives_bot)
 - #### [CLIKnowledgeBase](https://github.com/Frisle/CLIKnowledgeBase)
 
+# Commercial projects
+- #### [Demo-pandas-analytics](https://github.com/Frisle/Demo-Pandas-Analytics_InterSystems)
+
 ## Backend:
 - Python
   - Flask
