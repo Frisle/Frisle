@@ -3,10 +3,10 @@
 ## Backend developer, programmer-analyst, code enthusiast, 34 y.o
 ![views](https://hits.dwyl.com/diplomatgmg/Frisle.svg)
 
-**Location:** &ensp;&ensp;&ensp; &ensp; Kazakhstan<br>
-**Hobbies:** &ensp;&ensp;&ensp;&ensp; &ensp;coding, cycling, books, cooking<br>
+**Location:** &ensp;&ensp;&ensp;&ensp; Kazakhstan<br>
+**Hobbies:** &ensp;&ensp;&ensp;&ensp;&ensp;coding, cycling, books, cooking<br>
 **MonkeyType:** &ensp;[Monkey Type](https://monkeytype.com/profile/Frisle)<br>
-**Telegram:** &ensp;&ensp;&ensp; &ensp;[Frisle](https://t.me/Frisle)<br>
+**Telegram:** &ensp;&ensp;&ensp;&ensp;[Frisle](https://t.me/Frisle)<br>
 **Email:** &ensp;&ensp;&ensp;&ensp;&ensp;&ensp; &ensp; wda610@gmail.com<br>
 
 # Pet-projects
