@@ -13,6 +13,7 @@
 - #### [CLITimeManager](https://github.com/Frisle/CLITimeManager)
 - #### [FoodAdditivesBot](https://github.com/Frisle/Food_additives_bot)
 - #### [CLIKnowledgeBase](https://github.com/Frisle/CLIKnowledgeBase)
+- #### [CLIPasswordGen](https://github.com/Frisle/CLIPasswordGen)
 
 # Commercial projects
 - #### [Demo-pandas-analytics](https://github.com/Frisle/Demo-Pandas-Analytics_InterSystems)
