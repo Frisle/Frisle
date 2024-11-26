@@ -17,7 +17,7 @@
 
 # Commercial projects
 - #### [Demo-pandas-analytics](https://github.com/Frisle/Demo-Pandas-Analytics_InterSystems)
-## Currently under development. The "https" protocol will be applied soon  
+## Currently under development.  
 - #### [Mood Tracking web application](http://victoriasmoods.net/)
 
 ## Backend:
