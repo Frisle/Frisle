@@ -50,7 +50,7 @@
 - Logi Report Designer
 - AtScale
 
-![Repo](http://localhost:52773/zpm-shields/repo/mode?module=https:%2F%2Fgithub.com%2FSergeyMi37%2Fzapm&color=blue)
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Frisle&layout=compact)<br>
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Frisle&show_icons=true&bg_color=00000000)
 
