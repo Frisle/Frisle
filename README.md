@@ -26,6 +26,7 @@
   - Selenium
   - Pandas
   - Numpy
+  - Dash
 - ObjectScript
 
 ## Frontend:
@@ -34,6 +35,8 @@
 ## Database:
 - SQL
 - MDX
+- SQLLite
+- IRIS DB
 
 ## IDEs:
 - PyCharm
