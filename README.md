@@ -1,6 +1,6 @@
 ## Hi there, I am Vladimirov Dmitrij 👋
 
-## Backend developer, programmer-analyst, QA, code enthusiast, 35 y.o
+## Backend developer, analyst, QA, code enthusiast, 35 y.o
 ![views](https://hits.dwyl.com/diplomatgmg/Frisle.svg)
 
 **Location:** &ensp;&ensp;&ensp;&ensp; Kazakhstan<br>
